@@ -10,7 +10,7 @@ class MyProfile:
         self.major = None #Haven't been decided yet
     
     def hello():
-        print("Glad you're here. Have fun looking around!")
+        print("Glad you're here! You can call me Ducc.")
     
 me = MyProfile()
 me.hello()
