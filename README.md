@@ -1,11 +1,3 @@
-<div>
-    <img src="./media/arknights-endfield-endministrator.gif" alt="Senko gives you a cup of tea" width="100%">
-    </br>
-    <p> <i> "The factory must grow." </i> </p>
-</div>
-
-#
-
 #### Welcomes
 
 I'm Ducc, currently a Computer Science student.
@@ -14,11 +6,11 @@ My latest updates: [itsccao.github.io](https://itsccao.github.io) <img src="./me
 
 #
 
-#### Preferred IDE
+#### Preferred Code Editor
 
 ![IDE](https://skillicons.dev/icons?i=vscode&theme=light)
 
-#### Familiar with
+#### I'm familiar with
 
 ![Frequently used programming languages](https://skillicons.dev/icons?i=cpp,c,python,html,css,javascript&theme=light)
 
@@ -32,4 +24,4 @@ My latest updates: [itsccao.github.io](https://itsccao.github.io) <img src="./me
 > [!NOTE]
 > ![Miku approved 88x31](./media/miku-approved.gif)
 
-<span style="color: grey;"> <small> <i> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/141349528), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin banner](https://tenor.com/view/arknights-endfield-endministrator-female-endministrator-endmin-protagonist-gif-13799816866170288550), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
+<span style="color: grey;"> <small> <i> Inspired by [sayuriu](https://github.com/sayuriu) <br/> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/141349528), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
