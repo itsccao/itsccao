@@ -8,7 +8,11 @@ My latest updates: [itsccao.github.io](https://itsccao.github.io) <img src="./me
 
 #### Preferred Code Editor
 
-![IDE](https://skillicons.dev/icons?i=vscode&theme=light)
+![Code Editor](https://skillicons.dev/icons?i=vscode&theme=light)
+
+#### Preferred IDE
+
+![IDE](https://skillicons.dev/icons?i=visualstudio&theme=light)
 
 #### I'm familiar with
 
