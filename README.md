@@ -28,4 +28,4 @@ My latest updates: [itsccao.github.io](https://itsccao.github.io) <img src="./me
 > [!NOTE]
 > ![Miku approved 88x31](./media/miku-approved.gif)
 
-<span style="color: grey;"> <small> <i> Inspired by [sayuriu](https://github.com/sayuriu) <br/> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/141349528), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
+<span style="color: grey;"> <small> <i> Inspired by [sayuriu](https://github.com/sayuriu) <br/> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/143747121), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
