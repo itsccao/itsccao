@@ -16,10 +16,6 @@ My latest updates: [itsccao.github.io](https://itsccao.github.io) <img src="./me
 
 #
 
-#### GitHub stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsccao&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 > [!NOTE]
 > ![Miku approved 88x31](./media/miku-approved.gif)
 
