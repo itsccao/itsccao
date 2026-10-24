@@ -6,13 +6,7 @@ My portfolio: [itsccao.github.io](https://itsccao.github.io) <img src="./media/e
 
 #
 
-#### I'm familiar with
-
-![Frequently used programming languages](https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript&theme=light)
-
-#
-
 > [!NOTE]
 > ![Miku approved 88x31](./media/miku-approved.gif)
 
-<span style="color: grey;"> <small> <i> Inspired by [sayuriu](https://github.com/sayuriu) <br/> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/150809849), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
+<span style="color: grey;"> <small> <i> Inspired by [sayuriu](https://github.com/sayuriu) <br/> Image sources: [Profile picture](https://www.pixiv.net/en/artworks/151217480), [Miku approved](https://cyber.dabamos.de/88x31/), [Endmin emoji](https://discord.com/invite/akendfield) </i> </small> </span>
