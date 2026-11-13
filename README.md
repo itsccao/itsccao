@@ -1,10 +1,10 @@
 #### Welcomes
 
-I'm Cao, a 3rd-year Information System Student at [fit@hcmus](https://www.fit.hcmus.edu.vn/).
+I'm Cao, a 3rd-year Information Systems Student at [HCMUS](https://www.hcmus.edu.vn/).
 
 My portfolio: [itsccao.github.io](https://itsccao.github.io) <img src="./media/endmin.png" height="24px" alt="Endministrator">
 
-#
+---
 
 > [!NOTE]
 > ![Miku approved 88x31](./media/miku-approved.gif)
