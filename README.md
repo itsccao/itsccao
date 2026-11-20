@@ -7,5 +7,5 @@ I build small tools for the web and write about what I’m learning along the wa
 
 ---
 
-> ![NOTE]
+> [!NOTE]
 > ![Miku approved](./media/miku-approved.gif)
